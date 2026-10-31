@@ -1,0 +1,673 @@
+Image,Level,Filter,Detector,F1
+Camera Man,2,None (noisy),Sobel,0.9940667472747112
+Camera Man,2,None (noisy),Canny,0.9578008570729892
+Camera Man,2,None (noisy),LoG,0.9862336715200128
+Camera Man,2,Mean 5x5,Sobel,0.7981137114745359
+Camera Man,2,Mean 5x5,Canny,0.7823066324606581
+Camera Man,2,Mean 5x5,LoG,0.8535479177835956
+Camera Man,2,Median 5x5,Sobel,0.8568204211005366
+Camera Man,2,Median 5x5,Canny,0.8151084765781712
+Camera Man,2,Median 5x5,LoG,0.8406412377735267
+Camera Man,2,Gaussian 5x5,Sobel,0.8414620416760468
+Camera Man,2,Gaussian 5x5,Canny,0.8243327208006795
+Camera Man,2,Gaussian 5x5,LoG,0.9098458464904972
+Camera Man,2,Bilateral,Sobel,0.791882437222892
+Camera Man,2,Bilateral,Canny,0.7462353589660073
+Camera Man,2,Bilateral,LoG,0.7526172798914613
+Camera Man,2,NL-Means,Sobel,0.8321661651018335
+Camera Man,2,NL-Means,Canny,0.7890705317614096
+Camera Man,2,NL-Means,LoG,0.8394237265146509
+Camera Man,2,Median3+Bilateral,Sobel,0.7919875974771208
+Camera Man,2,Median3+Bilateral,Canny,0.7640637401303128
+Camera Man,2,Median3+Bilateral,LoG,0.7326318049754766
+Camera Man,5,None (noisy),Sobel,0.9833838978022652
+Camera Man,5,None (noisy),Canny,0.9275678394155472
+Camera Man,5,None (noisy),LoG,0.9593126206074043
+Camera Man,5,Mean 5x5,Sobel,0.7991112313117062
+Camera Man,5,Mean 5x5,Canny,0.785935511642877
+Camera Man,5,Mean 5x5,LoG,0.8474017069003604
+Camera Man,5,Median 5x5,Sobel,0.8611612670427782
+Camera Man,5,Median 5x5,Canny,0.8183774675235581
+Camera Man,5,Median 5x5,LoG,0.84159390735948
+Camera Man,5,Gaussian 5x5,Sobel,0.8404515457506262
+Camera Man,5,Gaussian 5x5,Canny,0.8139774105686706
+Camera Man,5,Gaussian 5x5,LoG,0.9055050016564823
+Camera Man,5,Bilateral,Sobel,0.7948193002404932
+Camera Man,5,Bilateral,Canny,0.7479377781344956
+Camera Man,5,Bilateral,LoG,0.7469443096926207
+Camera Man,5,NL-Means,Sobel,0.8395444173008666
+Camera Man,5,NL-Means,Canny,0.7971627948950983
+Camera Man,5,NL-Means,LoG,0.8518076263806125
+Camera Man,5,Median3+Bilateral,Sobel,0.7918743454525833
+Camera Man,5,Median3+Bilateral,Canny,0.7585934951610207
+Camera Man,5,Median3+Bilateral,LoG,0.7273296290143385
+Camera Man,10,None (noisy),Sobel,0.9550834614418512
+Camera Man,10,None (noisy),Canny,0.8756219515558673
+Camera Man,10,None (noisy),LoG,0.884904507107775
+Camera Man,10,Mean 5x5,Sobel,0.8005828547619182
+Camera Man,10,Mean 5x5,Canny,0.7829266443866482
+Camera Man,10,Mean 5x5,LoG,0.8254724515454791
+Camera Man,10,Median 5x5,Sobel,0.8615912335984793
+Camera Man,10,Median 5x5,Canny,0.8046863264305886
+Camera Man,10,Median 5x5,LoG,0.7964785043378843
+Camera Man,10,Gaussian 5x5,Sobel,0.8450368740814214
+Camera Man,10,Gaussian 5x5,Canny,0.8198760005418576
+Camera Man,10,Gaussian 5x5,LoG,0.8718774881403654
+Camera Man,10,Bilateral,Sobel,0.7996077439496491
+Camera Man,10,Bilateral,Canny,0.7516738677758406
+Camera Man,10,Bilateral,LoG,0.7434573109466452
+Camera Man,10,NL-Means,Sobel,0.8596929148678653
+Camera Man,10,NL-Means,Canny,0.7967553889701139
+Camera Man,10,NL-Means,LoG,0.8782505671799297
+Camera Man,10,Median3+Bilateral,Sobel,0.7906842182982462
+Camera Man,10,Median3+Bilateral,Canny,0.7545189918228214
+Camera Man,10,Median3+Bilateral,LoG,0.7179308205092604
+Camera Man,15,None (noisy),Sobel,0.9013798817007569
+Camera Man,15,None (noisy),Canny,0.840895193405903
+Camera Man,15,None (noisy),LoG,0.7932528277602768
+Camera Man,15,Mean 5x5,Sobel,0.800653318115604
+Camera Man,15,Mean 5x5,Canny,0.7801774549974633
+Camera Man,15,Mean 5x5,LoG,0.7731279861782391
+Camera Man,15,Median 5x5,Sobel,0.8468418837697852
+Camera Man,15,Median 5x5,Canny,0.8109152904912861
+Camera Man,15,Median 5x5,LoG,0.725357149321804
+Camera Man,15,Gaussian 5x5,Sobel,0.8454383517297412
+Camera Man,15,Gaussian 5x5,Canny,0.8153893738636239
+Camera Man,15,Gaussian 5x5,LoG,0.8036214981561067
+Camera Man,15,Bilateral,Sobel,0.8074406997237707
+Camera Man,15,Bilateral,Canny,0.7458980169722205
+Camera Man,15,Bilateral,LoG,0.7305872427204335
+Camera Man,15,NL-Means,Sobel,0.8873956940871169
+Camera Man,15,NL-Means,Canny,0.8184174883538343
+Camera Man,15,NL-Means,LoG,0.8932106098571141
+Camera Man,15,Median3+Bilateral,Sobel,0.7862890421148337
+Camera Man,15,Median3+Bilateral,Canny,0.7484184184309215
+Camera Man,15,Median3+Bilateral,LoG,0.6897094974442692
+Camera Man,20,None (noisy),Sobel,0.8420818122637267
+Camera Man,20,None (noisy),Canny,0.7831649906663705
+Camera Man,20,None (noisy),LoG,0.7292994038986633
+Camera Man,20,Mean 5x5,Sobel,0.808083666646465
+Camera Man,20,Mean 5x5,Canny,0.7822687412309602
+Camera Man,20,Mean 5x5,LoG,0.7312289532388555
+Camera Man,20,Median 5x5,Sobel,0.8318058597597588
+Camera Man,20,Median 5x5,Canny,0.7946316432974393
+Camera Man,20,Median 5x5,LoG,0.6776832362345645
+Camera Man,20,Gaussian 5x5,Sobel,0.8492678823906489
+Camera Man,20,Gaussian 5x5,Canny,0.8209316768301786
+Camera Man,20,Gaussian 5x5,LoG,0.7509855090099122
+Camera Man,20,Bilateral,Sobel,0.8269436430185181
+Camera Man,20,Bilateral,Canny,0.751688104331308
+Camera Man,20,Bilateral,LoG,0.7244686884197931
+Camera Man,20,NL-Means,Sobel,0.9098659585519958
+Camera Man,20,NL-Means,Canny,0.8351574714441982
+Camera Man,20,NL-Means,LoG,0.8817747159857131
+Camera Man,20,Median3+Bilateral,Sobel,0.7910840218009538
+Camera Man,20,Median3+Bilateral,Canny,0.7561194666875619
+Camera Man,20,Median3+Bilateral,LoG,0.6619598371707235
+Camera Man,25,None (noisy),Sobel,0.7860956330196555
+Camera Man,25,None (noisy),Canny,0.7013627673699452
+Camera Man,25,None (noisy),LoG,0.6837239815276398
+Camera Man,25,Mean 5x5,Sobel,0.8104272972384767
+Camera Man,25,Mean 5x5,Canny,0.7922150569840767
+Camera Man,25,Mean 5x5,LoG,0.690548339748033
+Camera Man,25,Median 5x5,Sobel,0.8116414190523628
+Camera Man,25,Median 5x5,Canny,0.7689164464590775
+Camera Man,25,Median 5x5,LoG,0.6294565952874648
+Camera Man,25,Gaussian 5x5,Sobel,0.8461349809990142
+Camera Man,25,Gaussian 5x5,Canny,0.8144747404441975
+Camera Man,25,Gaussian 5x5,LoG,0.7108751088689017
+Camera Man,25,Bilateral,Sobel,0.8426213075311823
+Camera Man,25,Bilateral,Canny,0.7621500909508513
+Camera Man,25,Bilateral,LoG,0.7133759793670514
+Camera Man,25,NL-Means,Sobel,0.8890843601404301
+Camera Man,25,NL-Means,Canny,0.7740831192770639
+Camera Man,25,NL-Means,LoG,0.8261762704046681
+Camera Man,25,Median3+Bilateral,Sobel,0.7933804615408512
+Camera Man,25,Median3+Bilateral,Canny,0.7495314781811265
+Camera Man,25,Median3+Bilateral,LoG,0.6319823787112638
+Camera Man,30,None (noisy),Sobel,0.7455632424266694
+Camera Man,30,None (noisy),Canny,0.5977167412511115
+Camera Man,30,None (noisy),LoG,0.6599787705720811
+Camera Man,30,Mean 5x5,Sobel,0.8114314630684079
+Camera Man,30,Mean 5x5,Canny,0.7635177025256606
+Camera Man,30,Mean 5x5,LoG,0.6632829825274809
+Camera Man,30,Median 5x5,Sobel,0.7823491249905448
+Camera Man,30,Median 5x5,Canny,0.7474821027271844
+Camera Man,30,Median 5x5,LoG,0.5966410117216586
+Camera Man,30,Gaussian 5x5,Sobel,0.8388492116061308
+Camera Man,30,Gaussian 5x5,Canny,0.7728971394414741
+Camera Man,30,Gaussian 5x5,LoG,0.6748663812148036
+Camera Man,30,Bilateral,Sobel,0.8513687601881265
+Camera Man,30,Bilateral,Canny,0.7621689098674301
+Camera Man,30,Bilateral,LoG,0.7053274218304384
+Camera Man,30,NL-Means,Sobel,0.8050890258772342
+Camera Man,30,NL-Means,Canny,0.6516811120211411
+Camera Man,30,NL-Means,LoG,0.7427966576806213
+Camera Man,30,Median3+Bilateral,Sobel,0.7969380623118331
+Camera Man,30,Median3+Bilateral,Canny,0.7372795812335493
+Camera Man,30,Median3+Bilateral,LoG,0.6144806567421631
+Camera Man,40,None (noisy),Sobel,0.6791109336033143
+Camera Man,40,None (noisy),Canny,0.4610730099697382
+Camera Man,40,None (noisy),LoG,0.6205766676844903
+Camera Man,40,Mean 5x5,Sobel,0.7984854001314923
+Camera Man,40,Mean 5x5,Canny,0.7199844608587446
+Camera Man,40,Mean 5x5,LoG,0.6226285211313006
+Camera Man,40,Median 5x5,Sobel,0.7401346937282369
+Camera Man,40,Median 5x5,Canny,0.6247770351328472
+Camera Man,40,Median 5x5,LoG,0.549963110393027
+Camera Man,40,Gaussian 5x5,Sobel,0.8104128349276101
+Camera Man,40,Gaussian 5x5,Canny,0.6859696057398993
+Camera Man,40,Gaussian 5x5,LoG,0.630509621904242
+Camera Man,40,Bilateral,Sobel,0.8179135867780505
+Camera Man,40,Bilateral,Canny,0.7338944367752384
+Camera Man,40,Bilateral,LoG,0.6869577303760599
+Camera Man,40,NL-Means,Sobel,0.684543237895558
+Camera Man,40,NL-Means,Canny,0.46623358067804066
+Camera Man,40,NL-Means,LoG,0.6294149729198154
+Camera Man,40,Median3+Bilateral,Sobel,0.7868653748002896
+Camera Man,40,Median3+Bilateral,Canny,0.7389782348658053
+Camera Man,40,Median3+Bilateral,LoG,0.5823493276286269
+Astronaut,2,None (noisy),Sobel,0.9982259118033942
+Astronaut,2,None (noisy),Canny,0.9867479237474587
+Astronaut,2,None (noisy),LoG,0.9555987253150909
+Astronaut,2,Mean 5x5,Sobel,0.8677285892425939
+Astronaut,2,Mean 5x5,Canny,0.8735257400823857
+Astronaut,2,Mean 5x5,LoG,0.8817732548440982
+Astronaut,2,Median 5x5,Sobel,0.9180667260676996
+Astronaut,2,Median 5x5,Canny,0.9086009789957732
+Astronaut,2,Median 5x5,LoG,0.8825617717898117
+Astronaut,2,Gaussian 5x5,Sobel,0.9112612914774414
+Astronaut,2,Gaussian 5x5,Canny,0.9114769698295022
+Astronaut,2,Gaussian 5x5,LoG,0.9282867310046381
+Astronaut,2,Bilateral,Sobel,0.9041667192168299
+Astronaut,2,Bilateral,Canny,0.8583369418085306
+Astronaut,2,Bilateral,LoG,0.8246287596072851
+Astronaut,2,NL-Means,Sobel,0.9687978273226531
+Astronaut,2,NL-Means,Canny,0.9407789072433564
+Astronaut,2,NL-Means,LoG,0.8951548628272539
+Astronaut,2,Median3+Bilateral,Sobel,0.9021990467098451
+Astronaut,2,Median3+Bilateral,Canny,0.8752745727914132
+Astronaut,2,Median3+Bilateral,LoG,0.812104939772114
+Astronaut,5,None (noisy),Sobel,0.9946129370795301
+Astronaut,5,None (noisy),Canny,0.9765737837742628
+Astronaut,5,None (noisy),LoG,0.9262429226665408
+Astronaut,5,Mean 5x5,Sobel,0.8685547094567186
+Astronaut,5,Mean 5x5,Canny,0.8827423252517731
+Astronaut,5,Mean 5x5,LoG,0.8853721749930713
+Astronaut,5,Median 5x5,Sobel,0.9170473936837408
+Astronaut,5,Median 5x5,Canny,0.9072865689724555
+Astronaut,5,Median 5x5,LoG,0.8816502874514061
+Astronaut,5,Gaussian 5x5,Sobel,0.9111208936830976
+Astronaut,5,Gaussian 5x5,Canny,0.9121338461316565
+Astronaut,5,Gaussian 5x5,LoG,0.9245841859363109
+Astronaut,5,Bilateral,Sobel,0.9042368029427885
+Astronaut,5,Bilateral,Canny,0.8560402288325375
+Astronaut,5,Bilateral,LoG,0.8498124812483633
+Astronaut,5,NL-Means,Sobel,0.9686616523839854
+Astronaut,5,NL-Means,Canny,0.9461690690152973
+Astronaut,5,NL-Means,LoG,0.9025847156094129
+Astronaut,5,Median3+Bilateral,Sobel,0.899723449520201
+Astronaut,5,Median3+Bilateral,Canny,0.8717991696672939
+Astronaut,5,Median3+Bilateral,LoG,0.8344323315084351
+Astronaut,10,None (noisy),Sobel,0.9831682966916026
+Astronaut,10,None (noisy),Canny,0.9690887638235748
+Astronaut,10,None (noisy),LoG,0.8792099680122363
+Astronaut,10,Mean 5x5,Sobel,0.869639379264848
+Astronaut,10,Mean 5x5,Canny,0.8766360556989927
+Astronaut,10,Mean 5x5,LoG,0.8762317278470235
+Astronaut,10,Median 5x5,Sobel,0.9173123762255163
+Astronaut,10,Median 5x5,Canny,0.915040729709051
+Astronaut,10,Median 5x5,LoG,0.8745908377304831
+Astronaut,10,Gaussian 5x5,Sobel,0.9138506352105067
+Astronaut,10,Gaussian 5x5,Canny,0.9084413382063606
+Astronaut,10,Gaussian 5x5,LoG,0.9073843227668448
+Astronaut,10,Bilateral,Sobel,0.905920870563646
+Astronaut,10,Bilateral,Canny,0.8587524150000944
+Astronaut,10,Bilateral,LoG,0.8548905360768766
+Astronaut,10,NL-Means,Sobel,0.972204859346569
+Astronaut,10,NL-Means,Canny,0.9492734504893641
+Astronaut,10,NL-Means,LoG,0.9260377521175712
+Astronaut,10,Median3+Bilateral,Sobel,0.8987164601167733
+Astronaut,10,Median3+Bilateral,Canny,0.8755135543686845
+Astronaut,10,Median3+Bilateral,LoG,0.8396565057410011
+Astronaut,15,None (noisy),Sobel,0.9642579286126368
+Astronaut,15,None (noisy),Canny,0.9466490587106292
+Astronaut,15,None (noisy),LoG,0.8178912022058218
+Astronaut,15,Mean 5x5,Sobel,0.8706364568303674
+Astronaut,15,Mean 5x5,Canny,0.8675076153214075
+Astronaut,15,Mean 5x5,LoG,0.8593202639174766
+Astronaut,15,Median 5x5,Sobel,0.9120833242433793
+Astronaut,15,Median 5x5,Canny,0.8838308263874489
+Astronaut,15,Median 5x5,LoG,0.8513186770453136
+Astronaut,15,Gaussian 5x5,Sobel,0.9119522015395076
+Astronaut,15,Gaussian 5x5,Canny,0.8946015235648846
+Astronaut,15,Gaussian 5x5,LoG,0.8806284884002279
+Astronaut,15,Bilateral,Sobel,0.9056179153066771
+Astronaut,15,Bilateral,Canny,0.8515354370611684
+Astronaut,15,Bilateral,LoG,0.8555370461379291
+Astronaut,15,NL-Means,Sobel,0.974974390274751
+Astronaut,15,NL-Means,Canny,0.9436837053910045
+Astronaut,15,NL-Means,LoG,0.9395921772294025
+Astronaut,15,Median3+Bilateral,Sobel,0.8945704058028047
+Astronaut,15,Median3+Bilateral,Canny,0.8630594832927041
+Astronaut,15,Median3+Bilateral,LoG,0.8358759513738253
+Astronaut,20,None (noisy),Sobel,0.9260887646253047
+Astronaut,20,None (noisy),Canny,0.9351237779786198
+Astronaut,20,None (noisy),LoG,0.7633923245243587
+Astronaut,20,Mean 5x5,Sobel,0.8692386771155737
+Astronaut,20,Mean 5x5,Canny,0.8706899927760393
+Astronaut,20,Mean 5x5,LoG,0.8457532940265717
+Astronaut,20,Median 5x5,Sobel,0.9055346095605884
+Astronaut,20,Median 5x5,Canny,0.8861713698308413
+Astronaut,20,Median 5x5,LoG,0.8225764937659161
+Astronaut,20,Gaussian 5x5,Sobel,0.9102340907871818
+Astronaut,20,Gaussian 5x5,Canny,0.9134153279744066
+Astronaut,20,Gaussian 5x5,LoG,0.8514613167584933
+Astronaut,20,Bilateral,Sobel,0.9116076769944934
+Astronaut,20,Bilateral,Canny,0.87635231322443
+Astronaut,20,Bilateral,LoG,0.8603552867680087
+Astronaut,20,NL-Means,Sobel,0.9690160669417264
+Astronaut,20,NL-Means,Canny,0.9430745123977421
+Astronaut,20,NL-Means,LoG,0.9131856336983855
+Astronaut,20,Median3+Bilateral,Sobel,0.8898292571342244
+Astronaut,20,Median3+Bilateral,Canny,0.8681587134303633
+Astronaut,20,Median3+Bilateral,LoG,0.8424213748069789
+Astronaut,25,None (noisy),Sobel,0.8709268920788266
+Astronaut,25,None (noisy),Canny,0.9168450473726342
+Astronaut,25,None (noisy),LoG,0.7170637146297151
+Astronaut,25,Mean 5x5,Sobel,0.8670604604028352
+Astronaut,25,Mean 5x5,Canny,0.8476261507141838
+Astronaut,25,Mean 5x5,LoG,0.8136869240460305
+Astronaut,25,Median 5x5,Sobel,0.8959572417826361
+Astronaut,25,Median 5x5,Canny,0.8777929508564876
+Astronaut,25,Median 5x5,LoG,0.7853387501857374
+Astronaut,25,Gaussian 5x5,Sobel,0.9066485210991463
+Astronaut,25,Gaussian 5x5,Canny,0.8893014433378363
+Astronaut,25,Gaussian 5x5,LoG,0.8083732137765994
+Astronaut,25,Bilateral,Sobel,0.9129443793311982
+Astronaut,25,Bilateral,Canny,0.8593777042958749
+Astronaut,25,Bilateral,LoG,0.8596485899655886
+Astronaut,25,NL-Means,Sobel,0.9246218498078265
+Astronaut,25,NL-Means,Canny,0.925629761255567
+Astronaut,25,NL-Means,LoG,0.826377102358083
+Astronaut,25,Median3+Bilateral,Sobel,0.8881632169322299
+Astronaut,25,Median3+Bilateral,Canny,0.8524614473856498
+Astronaut,25,Median3+Bilateral,LoG,0.8331616187620704
+Astronaut,30,None (noisy),Sobel,0.8206221065299882
+Astronaut,30,None (noisy),Canny,0.883145678450094
+Astronaut,30,None (noisy),LoG,0.670983280063718
+Astronaut,30,Mean 5x5,Sobel,0.8702961814911836
+Astronaut,30,Mean 5x5,Canny,0.8584394912533437
+Astronaut,30,Mean 5x5,LoG,0.7865373270999844
+Astronaut,30,Median 5x5,Sobel,0.8894243384216985
+Astronaut,30,Median 5x5,Canny,0.8478950434580678
+Astronaut,30,Median 5x5,LoG,0.7454001076616867
+Astronaut,30,Gaussian 5x5,Sobel,0.9072825599844492
+Astronaut,30,Gaussian 5x5,Canny,0.8764777273397865
+Astronaut,30,Gaussian 5x5,LoG,0.7769658886237727
+Astronaut,30,Bilateral,Sobel,0.914050611073682
+Astronaut,30,Bilateral,Canny,0.8663302751912365
+Astronaut,30,Bilateral,LoG,0.8479485126578944
+Astronaut,30,NL-Means,Sobel,0.8469779622694633
+Astronaut,30,NL-Means,Canny,0.8886397525452875
+Astronaut,30,NL-Means,LoG,0.7127757936401807
+Astronaut,30,Median3+Bilateral,Sobel,0.8872598630660266
+Astronaut,30,Median3+Bilateral,Canny,0.8459976235739769
+Astronaut,30,Median3+Bilateral,LoG,0.8229988671190789
+Astronaut,40,None (noisy),Sobel,0.7252020321809074
+Astronaut,40,None (noisy),Canny,0.8284333643468874
+Astronaut,40,None (noisy),LoG,0.6156386955630188
+Astronaut,40,Mean 5x5,Sobel,0.8653288947609009
+Astronaut,40,Mean 5x5,Canny,0.84611859820816
+Astronaut,40,Mean 5x5,LoG,0.7280259970088964
+Astronaut,40,Median 5x5,Sobel,0.8642049537181874
+Astronaut,40,Median 5x5,Canny,0.8393783840019389
+Astronaut,40,Median 5x5,LoG,0.6840192387211909
+Astronaut,40,Gaussian 5x5,Sobel,0.8925451832302004
+Astronaut,40,Gaussian 5x5,Canny,0.8579872792732227
+Astronaut,40,Gaussian 5x5,LoG,0.7166592581277551
+Astronaut,40,Bilateral,Sobel,0.8902772727198687
+Astronaut,40,Bilateral,Canny,0.8619450206594378
+Astronaut,40,Bilateral,LoG,0.7773434557725151
+Astronaut,40,NL-Means,Sobel,0.7262195194786654
+Astronaut,40,NL-Means,Canny,0.8268236892715459
+Astronaut,40,NL-Means,LoG,0.6216562511679127
+Astronaut,40,Median3+Bilateral,Sobel,0.8790894473323329
+Astronaut,40,Median3+Bilateral,Canny,0.827864300632684
+Astronaut,40,Median3+Bilateral,LoG,0.7942582462894593
+Coins,2,None (noisy),Sobel,0.9972525436171646
+Coins,2,None (noisy),Canny,0.9724250743619244
+Coins,2,None (noisy),LoG,0.9904445537645172
+Coins,2,Mean 5x5,Sobel,0.8587112730322751
+Coins,2,Mean 5x5,Canny,0.7867467595383143
+Coins,2,Mean 5x5,LoG,0.8825966004016964
+Coins,2,Median 5x5,Sobel,0.9278136557792945
+Coins,2,Median 5x5,Canny,0.8583945352182113
+Coins,2,Median 5x5,LoG,0.9031225155929188
+Coins,2,Gaussian 5x5,Sobel,0.9099055378920984
+Coins,2,Gaussian 5x5,Canny,0.8502723981381722
+Coins,2,Gaussian 5x5,LoG,0.931228394568136
+Coins,2,Bilateral,Sobel,0.8648649373530052
+Coins,2,Bilateral,Canny,0.7429815217027602
+Coins,2,Bilateral,LoG,0.7825818468695909
+Coins,2,NL-Means,Sobel,0.9209706343256743
+Coins,2,NL-Means,Canny,0.848903604025375
+Coins,2,NL-Means,LoG,0.8698605742477374
+Coins,2,Median3+Bilateral,Sobel,0.8799381548232424
+Coins,2,Median3+Bilateral,Canny,0.7595520766984144
+Coins,2,Median3+Bilateral,LoG,0.778857789104437
+Coins,5,None (noisy),Sobel,0.9903523289776616
+Coins,5,None (noisy),Canny,0.9586751685514513
+Coins,5,None (noisy),LoG,0.9656903357428857
+Coins,5,Mean 5x5,Sobel,0.8580404644038525
+Coins,5,Mean 5x5,Canny,0.778854552138447
+Coins,5,Mean 5x5,LoG,0.8819909880261787
+Coins,5,Median 5x5,Sobel,0.9270648464953942
+Coins,5,Median 5x5,Canny,0.8570003058873354
+Coins,5,Median 5x5,LoG,0.9013325607940285
+Coins,5,Gaussian 5x5,Sobel,0.9103919607138427
+Coins,5,Gaussian 5x5,Canny,0.8566344167901234
+Coins,5,Gaussian 5x5,LoG,0.9299895495915372
+Coins,5,Bilateral,Sobel,0.8645453097095179
+Coins,5,Bilateral,Canny,0.7282234134466317
+Coins,5,Bilateral,LoG,0.7859838610565346
+Coins,5,NL-Means,Sobel,0.9231188061969227
+Coins,5,NL-Means,Canny,0.8504428549292302
+Coins,5,NL-Means,LoG,0.8720550475243511
+Coins,5,Median3+Bilateral,Sobel,0.8772684088947984
+Coins,5,Median3+Bilateral,Canny,0.7604070789076276
+Coins,5,Median3+Bilateral,LoG,0.7775679672445104
+Coins,10,None (noisy),Sobel,0.9708861185833187
+Coins,10,None (noisy),Canny,0.9365440087501852
+Coins,10,None (noisy),LoG,0.8955899531979115
+Coins,10,Mean 5x5,Sobel,0.8602213558008414
+Coins,10,Mean 5x5,Canny,0.7837805721634422
+Coins,10,Mean 5x5,LoG,0.8714012777019907
+Coins,10,Median 5x5,Sobel,0.9251720566862276
+Coins,10,Median 5x5,Canny,0.856817034600641
+Coins,10,Median 5x5,LoG,0.8706188805489522
+Coins,10,Gaussian 5x5,Sobel,0.91022730051301
+Coins,10,Gaussian 5x5,Canny,0.8567729428566193
+Coins,10,Gaussian 5x5,LoG,0.9078281929219523
+Coins,10,Bilateral,Sobel,0.8693136045046901
+Coins,10,Bilateral,Canny,0.7436381824284051
+Coins,10,Bilateral,LoG,0.787037785596993
+Coins,10,NL-Means,Sobel,0.9305710346870326
+Coins,10,NL-Means,Canny,0.8603714911136733
+Coins,10,NL-Means,LoG,0.8829531385770121
+Coins,10,Median3+Bilateral,Sobel,0.8770089522599631
+Coins,10,Median3+Bilateral,Canny,0.7463221733302595
+Coins,10,Median3+Bilateral,LoG,0.776854423475145
+Coins,15,None (noisy),Sobel,0.9331420400985956
+Coins,15,None (noisy),Canny,0.9139587610067765
+Coins,15,None (noisy),LoG,0.8187102330463956
+Coins,15,Mean 5x5,Sobel,0.8614567285667036
+Coins,15,Mean 5x5,Canny,0.7712000698560189
+Coins,15,Mean 5x5,LoG,0.8400416819055452
+Coins,15,Median 5x5,Sobel,0.912365383487923
+Coins,15,Median 5x5,Canny,0.8326685821799302
+Coins,15,Median 5x5,LoG,0.8138371259248663
+Coins,15,Gaussian 5x5,Sobel,0.9100426844509418
+Coins,15,Gaussian 5x5,Canny,0.8411861165477491
+Coins,15,Gaussian 5x5,LoG,0.8600606180566814
+Coins,15,Bilateral,Sobel,0.8748984626915871
+Coins,15,Bilateral,Canny,0.744223024561804
+Coins,15,Bilateral,LoG,0.7827174650695895
+Coins,15,NL-Means,Sobel,0.9433869115973348
+Coins,15,NL-Means,Canny,0.8732225286125259
+Coins,15,NL-Means,LoG,0.8962246876328984
+Coins,15,Median3+Bilateral,Sobel,0.8737966872404735
+Coins,15,Median3+Bilateral,Canny,0.7597567464283647
+Coins,15,Median3+Bilateral,LoG,0.7665160200445019
+Coins,20,None (noisy),Sobel,0.8669962741622043
+Coins,20,None (noisy),Canny,0.8869645039406235
+Coins,20,None (noisy),LoG,0.7587087942713553
+Coins,20,Mean 5x5,Sobel,0.8650383713049391
+Coins,20,Mean 5x5,Canny,0.772670193390851
+Coins,20,Mean 5x5,LoG,0.8053355522466853
+Coins,20,Median 5x5,Sobel,0.8968241464804063
+Coins,20,Median 5x5,Canny,0.8197499750767568
+Coins,20,Median 5x5,LoG,0.7664857122011691
+Coins,20,Gaussian 5x5,Sobel,0.9093222931069886
+Coins,20,Gaussian 5x5,Canny,0.830832494476121
+Coins,20,Gaussian 5x5,LoG,0.819174479910188
+Coins,20,Bilateral,Sobel,0.8865906813668296
+Coins,20,Bilateral,Canny,0.7528396981619027
+Coins,20,Bilateral,LoG,0.7831061047087539
+Coins,20,NL-Means,Sobel,0.9471810683274419
+Coins,20,NL-Means,Canny,0.895752731344026
+Coins,20,NL-Means,LoG,0.902129767126436
+Coins,20,Median3+Bilateral,Sobel,0.8713645842134128
+Coins,20,Median3+Bilateral,Canny,0.7449667597436402
+Coins,20,Median3+Bilateral,LoG,0.7559380459938879
+Coins,25,None (noisy),Sobel,0.8054468341443077
+Coins,25,None (noisy),Canny,0.856950971351608
+Coins,25,None (noisy),LoG,0.7074245166436263
+Coins,25,Mean 5x5,Sobel,0.8638047549262634
+Coins,25,Mean 5x5,Canny,0.790489711462462
+Coins,25,Mean 5x5,LoG,0.7608302722806951
+Coins,25,Median 5x5,Sobel,0.8844145481990989
+Coins,25,Median 5x5,Canny,0.8214304229776195
+Coins,25,Median 5x5,LoG,0.714931376666195
+Coins,25,Gaussian 5x5,Sobel,0.9039446283660617
+Coins,25,Gaussian 5x5,Canny,0.8420412936926389
+Coins,25,Gaussian 5x5,LoG,0.7699650040547108
+Coins,25,Bilateral,Sobel,0.8925115734267981
+Coins,25,Bilateral,Canny,0.7636908012560312
+Coins,25,Bilateral,LoG,0.7731197232636576
+Coins,25,NL-Means,Sobel,0.9069817466006653
+Coins,25,NL-Means,Canny,0.875205582592822
+Coins,25,NL-Means,LoG,0.8443055407254858
+Coins,25,Median3+Bilateral,Sobel,0.8679430232821842
+Coins,25,Median3+Bilateral,Canny,0.7546872861617013
+Coins,25,Median3+Bilateral,LoG,0.7346678557051616
+Coins,30,None (noisy),Sobel,0.7518346722020067
+Coins,30,None (noisy),Canny,0.8216018604486264
+Coins,30,None (noisy),LoG,0.6734496291376008
+Coins,30,Mean 5x5,Sobel,0.864795066291411
+Coins,30,Mean 5x5,Canny,0.7860201686539757
+Coins,30,Mean 5x5,LoG,0.7395896620589875
+Coins,30,Median 5x5,Sobel,0.8662750345602436
+Coins,30,Median 5x5,Canny,0.8049187050588328
+Coins,30,Median 5x5,LoG,0.6742698128770882
+Coins,30,Gaussian 5x5,Sobel,0.8981402673126839
+Coins,30,Gaussian 5x5,Canny,0.8299847792541137
+Coins,30,Gaussian 5x5,LoG,0.7383367401056766
+Coins,30,Bilateral,Sobel,0.8982587533871915
+Coins,30,Bilateral,Canny,0.7835385488749034
+Coins,30,Bilateral,LoG,0.7545877432025719
+Coins,30,NL-Means,Sobel,0.8011481014403763
+Coins,30,NL-Means,Canny,0.8299268120120803
+Coins,30,NL-Means,LoG,0.7340868350723777
+Coins,30,Median3+Bilateral,Sobel,0.8694926087992425
+Coins,30,Median3+Bilateral,Canny,0.7722323571598871
+Coins,30,Median3+Bilateral,LoG,0.7168439517001769
+Coins,40,None (noisy),Sobel,0.6597688860443502
+Coins,40,None (noisy),Canny,0.7348456469524196
+Coins,40,None (noisy),LoG,0.6149971772640325
+Coins,40,Mean 5x5,Sobel,0.8584574478362699
+Coins,40,Mean 5x5,Canny,0.7758494589808322
+Coins,40,Mean 5x5,LoG,0.6801362883788648
+Coins,40,Median 5x5,Sobel,0.8192255306273641
+Coins,40,Median 5x5,Canny,0.7767419797655442
+Coins,40,Median 5x5,LoG,0.6120832571666558
+Coins,40,Gaussian 5x5,Sobel,0.886586597887833
+Coins,40,Gaussian 5x5,Canny,0.8177992955386347
+Coins,40,Gaussian 5x5,LoG,0.6781417485629399
+Coins,40,Bilateral,Sobel,0.8614138791314657
+Coins,40,Bilateral,Canny,0.784835266879078
+Coins,40,Bilateral,LoG,0.7085300978802915
+Coins,40,NL-Means,Sobel,0.6612964151006584
+Coins,40,NL-Means,Canny,0.7351566941060882
+Coins,40,NL-Means,LoG,0.6181058969955198
+Coins,40,Median3+Bilateral,Sobel,0.8551883540664141
+Coins,40,Median3+Bilateral,Canny,0.7462848666730312
+Coins,40,Median3+Bilateral,LoG,0.6717184905666825
+Chelsea Cat,2,None (noisy),Sobel,0.9889148731320064
+Chelsea Cat,2,None (noisy),Canny,0.9275313868076549
+Chelsea Cat,2,None (noisy),LoG,0.9789779875923255
+Chelsea Cat,2,Mean 5x5,Sobel,0.7900374657541732
+Chelsea Cat,2,Mean 5x5,Canny,0.7597231124257884
+Chelsea Cat,2,Mean 5x5,LoG,0.8062319337949109
+Chelsea Cat,2,Median 5x5,Sobel,0.8561256866156555
+Chelsea Cat,2,Median 5x5,Canny,0.8092871779916804
+Chelsea Cat,2,Median 5x5,LoG,0.817388357898008
+Chelsea Cat,2,Gaussian 5x5,Sobel,0.8615058564391265
+Chelsea Cat,2,Gaussian 5x5,Canny,0.8298049507643084
+Chelsea Cat,2,Gaussian 5x5,LoG,0.8850387506817047
+Chelsea Cat,2,Bilateral,Sobel,0.6716040362480825
+Chelsea Cat,2,Bilateral,Canny,0.574415760549254
+Chelsea Cat,2,Bilateral,LoG,0.6240180412329258
+Chelsea Cat,2,NL-Means,Sobel,0.7415866343346141
+Chelsea Cat,2,NL-Means,Canny,0.6023665102020948
+Chelsea Cat,2,NL-Means,LoG,0.7202426094227115
+Chelsea Cat,2,Median3+Bilateral,Sobel,0.6825630511423831
+Chelsea Cat,2,Median3+Bilateral,Canny,0.5907318155740201
+Chelsea Cat,2,Median3+Bilateral,LoG,0.6153733071065386
+Chelsea Cat,5,None (noisy),Sobel,0.9575791836856424
+Chelsea Cat,5,None (noisy),Canny,0.9012277144272142
+Chelsea Cat,5,None (noisy),LoG,0.9271088133373926
+Chelsea Cat,5,Mean 5x5,Sobel,0.788578342825764
+Chelsea Cat,5,Mean 5x5,Canny,0.7615195160267648
+Chelsea Cat,5,Mean 5x5,LoG,0.8040906061764516
+Chelsea Cat,5,Median 5x5,Sobel,0.8419199181134893
+Chelsea Cat,5,Median 5x5,Canny,0.7943324267880416
+Chelsea Cat,5,Median 5x5,LoG,0.8109568429592541
+Chelsea Cat,5,Gaussian 5x5,Sobel,0.8570406774418352
+Chelsea Cat,5,Gaussian 5x5,Canny,0.8121073679806821
+Chelsea Cat,5,Gaussian 5x5,LoG,0.8780398524276343
+Chelsea Cat,5,Bilateral,Sobel,0.6722867946436903
+Chelsea Cat,5,Bilateral,Canny,0.5895398460419239
+Chelsea Cat,5,Bilateral,LoG,0.6276062984122132
+Chelsea Cat,5,NL-Means,Sobel,0.7435769349243742
+Chelsea Cat,5,NL-Means,Canny,0.6118244427192121
+Chelsea Cat,5,NL-Means,LoG,0.72800993246823
+Chelsea Cat,5,Median3+Bilateral,Sobel,0.6791467980745975
+Chelsea Cat,5,Median3+Bilateral,Canny,0.5871603081895757
+Chelsea Cat,5,Median3+Bilateral,LoG,0.6173834730791724
+Chelsea Cat,10,None (noisy),Sobel,0.857093248340395
+Chelsea Cat,10,None (noisy),Canny,0.8407821263590411
+Chelsea Cat,10,None (noisy),LoG,0.8176614021701292
+Chelsea Cat,10,Mean 5x5,Sobel,0.7870334847102641
+Chelsea Cat,10,Mean 5x5,Canny,0.7607121180700225
+Chelsea Cat,10,Mean 5x5,LoG,0.778292043342869
+Chelsea Cat,10,Median 5x5,Sobel,0.8150776237426979
+Chelsea Cat,10,Median 5x5,Canny,0.7604622556587404
+Chelsea Cat,10,Median 5x5,LoG,0.760525353236098
+Chelsea Cat,10,Gaussian 5x5,Sobel,0.8517268597603579
+Chelsea Cat,10,Gaussian 5x5,Canny,0.8082134310778322
+Chelsea Cat,10,Gaussian 5x5,LoG,0.8327557998747805
+Chelsea Cat,10,Bilateral,Sobel,0.6813345555242899
+Chelsea Cat,10,Bilateral,Canny,0.5931003109401478
+Chelsea Cat,10,Bilateral,LoG,0.6334005347869481
+Chelsea Cat,10,NL-Means,Sobel,0.7559717566882089
+Chelsea Cat,10,NL-Means,Canny,0.6168766179468106
+Chelsea Cat,10,NL-Means,LoG,0.7487165950959066
+Chelsea Cat,10,Median3+Bilateral,Sobel,0.6718988167138338
+Chelsea Cat,10,Median3+Bilateral,Canny,0.5750819563517029
+Chelsea Cat,10,Median3+Bilateral,LoG,0.6168675932812163
+Chelsea Cat,15,None (noisy),Sobel,0.726353466024813
+Chelsea Cat,15,None (noisy),Canny,0.7836103306495554
+Chelsea Cat,15,None (noisy),LoG,0.7102714315736688
+Chelsea Cat,15,Mean 5x5,Sobel,0.7779703583739708
+Chelsea Cat,15,Mean 5x5,Canny,0.7491198968048371
+Chelsea Cat,15,Mean 5x5,LoG,0.7418921045250755
+Chelsea Cat,15,Median 5x5,Sobel,0.7826432147862082
+Chelsea Cat,15,Median 5x5,Canny,0.7383578881142608
+Chelsea Cat,15,Median 5x5,LoG,0.6934850688993373
+Chelsea Cat,15,Gaussian 5x5,Sobel,0.837506446879771
+Chelsea Cat,15,Gaussian 5x5,Canny,0.7813720264241323
+Chelsea Cat,15,Gaussian 5x5,LoG,0.7798030071101981
+Chelsea Cat,15,Bilateral,Sobel,0.6989208514310747
+Chelsea Cat,15,Bilateral,Canny,0.614042615439283
+Chelsea Cat,15,Bilateral,LoG,0.6331300570251602
+Chelsea Cat,15,NL-Means,Sobel,0.7901434206046021
+Chelsea Cat,15,NL-Means,Canny,0.636464980719703
+Chelsea Cat,15,NL-Means,LoG,0.7789724940472034
+Chelsea Cat,15,Median3+Bilateral,Sobel,0.6767208972803695
+Chelsea Cat,15,Median3+Bilateral,Canny,0.5930867479602145
+Chelsea Cat,15,Median3+Bilateral,LoG,0.6030435485766364
+Chelsea Cat,20,None (noisy),Sobel,0.6214127632002064
+Chelsea Cat,20,None (noisy),Canny,0.6886261757134341
+Chelsea Cat,20,None (noisy),LoG,0.6194606798878247
+Chelsea Cat,20,Mean 5x5,Sobel,0.7673367947292656
+Chelsea Cat,20,Mean 5x5,Canny,0.7041436937298143
+Chelsea Cat,20,Mean 5x5,LoG,0.6802013404993831
+Chelsea Cat,20,Median 5x5,Sobel,0.7320780647993514
+Chelsea Cat,20,Median 5x5,Canny,0.6741508084777798
+Chelsea Cat,20,Median 5x5,LoG,0.60950897225506
+Chelsea Cat,20,Gaussian 5x5,Sobel,0.8081147332369462
+Chelsea Cat,20,Gaussian 5x5,Canny,0.7292937383389145
+Chelsea Cat,20,Gaussian 5x5,LoG,0.6973007931183359
+Chelsea Cat,20,Bilateral,Sobel,0.7142584408200332
+Chelsea Cat,20,Bilateral,Canny,0.6143597585132192
+Chelsea Cat,20,Bilateral,LoG,0.6241487944315538
+Chelsea Cat,20,NL-Means,Sobel,0.8160706616331251
+Chelsea Cat,20,NL-Means,Canny,0.6856492501454622
+Chelsea Cat,20,NL-Means,LoG,0.761622522421478
+Chelsea Cat,20,Median3+Bilateral,Sobel,0.6686269649276695
+Chelsea Cat,20,Median3+Bilateral,Canny,0.5799302966700317
+Chelsea Cat,20,Median3+Bilateral,LoG,0.5763333239215188
+Chelsea Cat,25,None (noisy),Sobel,0.5445354354862544
+Chelsea Cat,25,None (noisy),Canny,0.6215873692352593
+Chelsea Cat,25,None (noisy),LoG,0.5688780180018772
+Chelsea Cat,25,Mean 5x5,Sobel,0.7437722290629792
+Chelsea Cat,25,Mean 5x5,Canny,0.6635609403103875
+Chelsea Cat,25,Mean 5x5,LoG,0.6339685681154165
+Chelsea Cat,25,Median 5x5,Sobel,0.6951693426049893
+Chelsea Cat,25,Median 5x5,Canny,0.6323091370054794
+Chelsea Cat,25,Median 5x5,LoG,0.5682504846010121
+Chelsea Cat,25,Gaussian 5x5,Sobel,0.7747377520634812
+Chelsea Cat,25,Gaussian 5x5,Canny,0.6941024539217933
+Chelsea Cat,25,Gaussian 5x5,LoG,0.6428945305229165
+Chelsea Cat,25,Bilateral,Sobel,0.7225773493904727
+Chelsea Cat,25,Bilateral,Canny,0.6241574090308806
+Chelsea Cat,25,Bilateral,LoG,0.6087780210306345
+Chelsea Cat,25,NL-Means,Sobel,0.7025943435383314
+Chelsea Cat,25,NL-Means,Canny,0.7094622046556861
+Chelsea Cat,25,NL-Means,LoG,0.6522995260459584
+Chelsea Cat,25,Median3+Bilateral,Sobel,0.6685125298392237
+Chelsea Cat,25,Median3+Bilateral,Canny,0.5736003186286157
+Chelsea Cat,25,Median3+Bilateral,LoG,0.5586581808515949
+Chelsea Cat,30,None (noisy),Sobel,0.4944448120231441
+Chelsea Cat,30,None (noisy),Canny,0.561521678360792
+Chelsea Cat,30,None (noisy),LoG,0.5345067382581489
+Chelsea Cat,30,Mean 5x5,Sobel,0.7236563534332827
+Chelsea Cat,30,Mean 5x5,Canny,0.6577396285697454
+Chelsea Cat,30,Mean 5x5,LoG,0.5900226472918402
+Chelsea Cat,30,Median 5x5,Sobel,0.6603001658120977
+Chelsea Cat,30,Median 5x5,Canny,0.6161114156807863
+Chelsea Cat,30,Median 5x5,LoG,0.5379613733838815
+Chelsea Cat,30,Gaussian 5x5,Sobel,0.7437023295659456
+Chelsea Cat,30,Gaussian 5x5,Canny,0.6559542708634708
+Chelsea Cat,30,Gaussian 5x5,LoG,0.5962344281461982
+Chelsea Cat,30,Bilateral,Sobel,0.7130336263582645
+Chelsea Cat,30,Bilateral,Canny,0.6250919422584434
+Chelsea Cat,30,Bilateral,LoG,0.5874475635753627
+Chelsea Cat,30,NL-Means,Sobel,0.5324310921529662
+Chelsea Cat,30,NL-Means,Canny,0.5931896497302739
+Chelsea Cat,30,NL-Means,LoG,0.5588302605119604
+Chelsea Cat,30,Median3+Bilateral,Sobel,0.6689981142553802
+Chelsea Cat,30,Median3+Bilateral,Canny,0.5766398562418702
+Chelsea Cat,30,Median3+Bilateral,LoG,0.5343575470723688
+Chelsea Cat,40,None (noisy),Sobel,0.42553520434810305
+Chelsea Cat,40,None (noisy),Canny,0.4867765910496686
+Chelsea Cat,40,None (noisy),LoG,0.47869432725552297
+Chelsea Cat,40,Mean 5x5,Sobel,0.6615193504324278
+Chelsea Cat,40,Mean 5x5,Canny,0.574591842835736
+Chelsea Cat,40,Mean 5x5,LoG,0.5196590219407083
+Chelsea Cat,40,Median 5x5,Sobel,0.5667343802241587
+Chelsea Cat,40,Median 5x5,Canny,0.5190668297925927
+Chelsea Cat,40,Median 5x5,LoG,0.4735600372280334
+Chelsea Cat,40,Gaussian 5x5,Sobel,0.6677933027084828
+Chelsea Cat,40,Gaussian 5x5,Canny,0.5764950532264618
+Chelsea Cat,40,Gaussian 5x5,LoG,0.5204429632397212
+Chelsea Cat,40,Bilateral,Sobel,0.6056356745808071
+Chelsea Cat,40,Bilateral,Canny,0.5907984374404212
+Chelsea Cat,40,Bilateral,LoG,0.5235167914160851
+Chelsea Cat,40,NL-Means,Sobel,0.425383384699922
+Chelsea Cat,40,NL-Means,Canny,0.48691093399249097
+Chelsea Cat,40,NL-Means,LoG,0.47923756235323994
+Chelsea Cat,40,Median3+Bilateral,Sobel,0.6407699006374481
+Chelsea Cat,40,Median3+Bilateral,Canny,0.534215831760629
+Chelsea Cat,40,Median3+Bilateral,LoG,0.49240775801376846

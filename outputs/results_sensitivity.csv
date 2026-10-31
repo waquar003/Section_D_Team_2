@@ -1,0 +1,169 @@
+Noise,Family,Value,Image,PSNR,F1_Canny
+salt_pepper,Mean (kernel size),3.0,Camera Man,24.962004547412306,0.5990513999722015
+salt_pepper,Mean (kernel size),3.0,Astronaut,24.996982218113025,0.8991133114722027
+salt_pepper,Mean (kernel size),3.0,Coins,25.864008626033417,0.820363783188312
+salt_pepper,Mean (kernel size),3.0,Chelsea Cat,27.638704886562344,0.602535961936302
+salt_pepper,Mean (kernel size),5.0,Camera Man,25.18131495387722,0.7594773915781997
+salt_pepper,Mean (kernel size),5.0,Astronaut,24.651790885062162,0.8027493713938237
+salt_pepper,Mean (kernel size),5.0,Coins,26.243144251607298,0.7132102297534979
+salt_pepper,Mean (kernel size),5.0,Chelsea Cat,29.788767612315866,0.5986234979148783
+salt_pepper,Mean (kernel size),7.0,Camera Man,24.32120624608624,0.6026992258039213
+salt_pepper,Mean (kernel size),7.0,Astronaut,23.423087625670426,0.5812459326119674
+salt_pepper,Mean (kernel size),7.0,Coins,25.099005081083344,0.604167495990914
+salt_pepper,Mean (kernel size),7.0,Chelsea Cat,29.567698244191327,0.33461086551834407
+salt_pepper,Mean (kernel size),9.0,Camera Man,23.469131739846944,0.4414644570423582
+salt_pepper,Mean (kernel size),9.0,Astronaut,22.33508943682343,0.38827529196293226
+salt_pepper,Mean (kernel size),9.0,Coins,24.046683656008287,0.505298833170796
+salt_pepper,Mean (kernel size),9.0,Chelsea Cat,28.874910432733707,0.2092912720375928
+salt_pepper,Median (kernel size),3.0,Camera Man,30.14004412085623,0.8759493621622537
+salt_pepper,Median (kernel size),3.0,Astronaut,31.520331973060674,0.9437000852248616
+salt_pepper,Median (kernel size),3.0,Coins,33.27821346183497,0.9133837865765299
+salt_pepper,Median (kernel size),3.0,Chelsea Cat,38.23159663758563,0.8906473739500966
+salt_pepper,Median (kernel size),5.0,Camera Man,27.868749322206618,0.7791289878698632
+salt_pepper,Median (kernel size),5.0,Astronaut,27.984131246194863,0.8899706233495926
+salt_pepper,Median (kernel size),5.0,Coins,29.958696450834616,0.8021432926890267
+salt_pepper,Median (kernel size),5.0,Chelsea Cat,34.26035632260572,0.7190817852707371
+salt_pepper,Median (kernel size),7.0,Camera Man,26.257414311898437,0.6972443483130562
+salt_pepper,Median (kernel size),7.0,Astronaut,25.969779013051358,0.8030605737538618
+salt_pepper,Median (kernel size),7.0,Coins,28.16471865945224,0.6773599805480872
+salt_pepper,Median (kernel size),7.0,Chelsea Cat,31.85690889099497,0.5105450405937925
+salt_pepper,Median (kernel size),9.0,Camera Man,24.78067778805514,0.564395389130224
+salt_pepper,Median (kernel size),9.0,Astronaut,24.560925515803625,0.7060383642308483
+salt_pepper,Median (kernel size),9.0,Coins,27.05521342755484,0.6140647785935525
+salt_pepper,Median (kernel size),9.0,Chelsea Cat,30.380586589684988,0.38666941563851503
+salt_pepper,Gaussian (sigma),0.8,Camera Man,25.142502208122753,0.5782613638135883
+salt_pepper,Gaussian (sigma),0.8,Astronaut,25.080486228522307,0.8952118820047349
+salt_pepper,Gaussian (sigma),0.8,Coins,25.87080113806417,0.816795630427402
+salt_pepper,Gaussian (sigma),0.8,Chelsea Cat,27.354650743921447,0.5925214249821434
+salt_pepper,Gaussian (sigma),1.5,Camera Man,25.679482140067655,0.7663351191264387
+salt_pepper,Gaussian (sigma),1.5,Astronaut,25.18237226209592,0.8009128371939457
+salt_pepper,Gaussian (sigma),1.5,Coins,26.68271475663395,0.718623308242979
+salt_pepper,Gaussian (sigma),1.5,Chelsea Cat,30.239997010663124,0.6004550585135421
+salt_pepper,Gaussian (sigma),2.5,Camera Man,24.266651774079744,0.5972249508757448
+salt_pepper,Gaussian (sigma),2.5,Astronaut,23.192072053094183,0.5460260875835036
+salt_pepper,Gaussian (sigma),2.5,Coins,24.880131028112654,0.5890408562798114
+salt_pepper,Gaussian (sigma),2.5,Chelsea Cat,29.65208694670299,0.29039456517924345
+salt_pepper,Gaussian (sigma),3.5,Camera Man,23.20625967527272,0.42484056851055646
+salt_pepper,Gaussian (sigma),3.5,Astronaut,21.690702608332906,0.3007394109033641
+salt_pepper,Gaussian (sigma),3.5,Coins,23.458143084012587,0.4755622340935725
+salt_pepper,Gaussian (sigma),3.5,Chelsea Cat,28.465427941159977,0.15100525683037894
+salt_pepper,Bilateral (sigmaColor),25.0,Camera Man,17.862700230273877,0.4466846464592166
+salt_pepper,Bilateral (sigmaColor),25.0,Astronaut,17.78456185989294,0.8758242502425395
+salt_pepper,Bilateral (sigmaColor),25.0,Coins,18.123800034405185,0.7215147856285913
+salt_pepper,Bilateral (sigmaColor),25.0,Chelsea Cat,18.74306106882664,0.4773850338106192
+salt_pepper,Bilateral (sigmaColor),50.0,Camera Man,18.56542097241993,0.46374342838336263
+salt_pepper,Bilateral (sigmaColor),50.0,Astronaut,18.57333688799723,0.808761390463117
+salt_pepper,Bilateral (sigmaColor),50.0,Coins,19.117145481707226,0.666613656973232
+salt_pepper,Bilateral (sigmaColor),50.0,Chelsea Cat,21.693822455774793,0.4890134443310255
+salt_pepper,Bilateral (sigmaColor),75.0,Camera Man,21.10463561002657,0.5451673044589352
+salt_pepper,Bilateral (sigmaColor),75.0,Astronaut,20.79885827337694,0.7775795085329426
+salt_pepper,Bilateral (sigmaColor),75.0,Coins,22.439520698277683,0.6295910270687364
+salt_pepper,Bilateral (sigmaColor),75.0,Chelsea Cat,27.05234928712535,0.42113764177495566
+salt_pepper,Bilateral (sigmaColor),100.0,Camera Man,24.69658070374386,0.701588283974112
+salt_pepper,Bilateral (sigmaColor),100.0,Astronaut,23.92189922466187,0.7508233217426558
+salt_pepper,Bilateral (sigmaColor),100.0,Coins,25.732742933515947,0.6473519362732315
+salt_pepper,Bilateral (sigmaColor),100.0,Chelsea Cat,29.768185184356145,0.4029084234530281
+salt_pepper,Bilateral (sigmaColor),150.0,Camera Man,25.78062690317518,0.6769570744464011
+salt_pepper,Bilateral (sigmaColor),150.0,Astronaut,25.11588473896647,0.7194507653625005
+salt_pepper,Bilateral (sigmaColor),150.0,Coins,26.440808923970778,0.6338186281356695
+salt_pepper,Bilateral (sigmaColor),150.0,Chelsea Cat,30.458632719274952,0.37309572756255954
+salt_pepper,NL-Means (h),10.0,Camera Man,17.89809583678785,0.439252239567254
+salt_pepper,NL-Means (h),10.0,Astronaut,17.762178389703447,0.8709635385757141
+salt_pepper,NL-Means (h),10.0,Coins,18.134251546655097,0.7398784637789764
+salt_pepper,NL-Means (h),10.0,Chelsea Cat,18.935128831054588,0.5347923658404587
+salt_pepper,NL-Means (h),15.0,Camera Man,18.57495073971213,0.4810099067098667
+salt_pepper,NL-Means (h),15.0,Astronaut,18.330339501261285,0.8752773021555736
+salt_pepper,NL-Means (h),15.0,Coins,18.92790440546893,0.7463060765241594
+salt_pepper,NL-Means (h),15.0,Chelsea Cat,20.351359575590475,0.5644858749630517
+salt_pepper,NL-Means (h),25.0,Camera Man,24.00869646725312,0.677485166287892
+salt_pepper,NL-Means (h),25.0,Astronaut,22.870702114219455,0.8483622896527928
+salt_pepper,NL-Means (h),25.0,Coins,24.695982472759685,0.6843193680371109
+salt_pepper,NL-Means (h),25.0,Chelsea Cat,27.70938754544309,0.3752218848560075
+salt_pepper,NL-Means (h),40.0,Camera Man,26.440440597666996,0.6548771867054449
+salt_pepper,NL-Means (h),40.0,Astronaut,25.425498448610163,0.7163484250591954
+salt_pepper,NL-Means (h),40.0,Coins,26.653603749966948,0.5956287657082017
+salt_pepper,NL-Means (h),40.0,Chelsea Cat,27.980942180850306,0.20541692540745948
+gaussian,Mean (kernel size),3.0,Camera Man,26.621130383446516,0.7876838252346111
+gaussian,Mean (kernel size),3.0,Astronaut,26.5809806323766,0.8981197909900149
+gaussian,Mean (kernel size),3.0,Coins,27.696516549278503,0.8730251268719994
+gaussian,Mean (kernel size),3.0,Chelsea Cat,28.980480986080085,0.6739155215578524
+gaussian,Mean (kernel size),5.0,Camera Man,25.91097535178706,0.7603067403794711
+gaussian,Mean (kernel size),5.0,Astronaut,25.17428731195657,0.8067298337611649
+gaussian,Mean (kernel size),5.0,Coins,27.26497489470706,0.722792135723649
+gaussian,Mean (kernel size),5.0,Chelsea Cat,30.78177821800945,0.6195543223203953
+gaussian,Mean (kernel size),7.0,Camera Man,24.722344661083827,0.6085841839842749
+gaussian,Mean (kernel size),7.0,Astronaut,23.651299068316263,0.6027570934861209
+gaussian,Mean (kernel size),7.0,Coins,25.686232396523522,0.6130615527447615
+gaussian,Mean (kernel size),7.0,Chelsea Cat,30.183672472157312,0.37151183693526973
+gaussian,Mean (kernel size),9.0,Camera Man,23.742505412017355,0.4324679982744999
+gaussian,Mean (kernel size),9.0,Astronaut,22.466392900314915,0.4071334669187905
+gaussian,Mean (kernel size),9.0,Coins,24.45419400976714,0.5212631644599248
+gaussian,Mean (kernel size),9.0,Chelsea Cat,29.29806810454018,0.20472035385467288
+gaussian,Median (kernel size),3.0,Camera Man,25.88242281793012,0.7289443557988847
+gaussian,Median (kernel size),3.0,Astronaut,26.375433017812195,0.9050362852556916
+gaussian,Median (kernel size),3.0,Coins,26.57220796863448,0.8623095724400907
+gaussian,Median (kernel size),3.0,Chelsea Cat,27.36526804839852,0.6228964251205288
+gaussian,Median (kernel size),5.0,Camera Man,26.32253476782622,0.7678903506803753
+gaussian,Median (kernel size),5.0,Astronaut,26.308301449161004,0.8434287573028638
+gaussian,Median (kernel size),5.0,Coins,27.452773659924024,0.7667559119426551
+gaussian,Median (kernel size),5.0,Chelsea Cat,29.742836875025823,0.6289474571917895
+gaussian,Median (kernel size),7.0,Camera Man,25.540025549852036,0.658504928445969
+gaussian,Median (kernel size),7.0,Astronaut,25.115604980212403,0.7270289869323392
+gaussian,Median (kernel size),7.0,Coins,26.718030024246723,0.6491246017596755
+gaussian,Median (kernel size),7.0,Chelsea Cat,29.775732504232508,0.4204018130359837
+gaussian,Median (kernel size),9.0,Camera Man,24.446217734188274,0.540708210963019
+gaussian,Median (kernel size),9.0,Astronaut,23.996836873360966,0.6305599475201081
+gaussian,Median (kernel size),9.0,Coins,25.890975176015946,0.5861528565419485
+gaussian,Median (kernel size),9.0,Chelsea Cat,29.22510878335686,0.2795173377526173
+gaussian,Gaussian (sigma),0.8,Camera Man,27.15746121331559,0.7747818329145872
+gaussian,Gaussian (sigma),0.8,Astronaut,26.956618839640893,0.9012274883789692
+gaussian,Gaussian (sigma),0.8,Coins,27.937771332135313,0.8771146470626726
+gaussian,Gaussian (sigma),0.8,Chelsea Cat,28.768816517257846,0.6623584283138811
+gaussian,Gaussian (sigma),1.5,Camera Man,26.476835520760716,0.764464768557974
+gaussian,Gaussian (sigma),1.5,Astronaut,25.74013187695688,0.8138824987583289
+gaussian,Gaussian (sigma),1.5,Coins,27.777973839385343,0.7313013284851114
+gaussian,Gaussian (sigma),1.5,Chelsea Cat,31.28305161427127,0.6269799475499018
+gaussian,Gaussian (sigma),2.5,Camera Man,24.613094889231938,0.6031600852669168
+gaussian,Gaussian (sigma),2.5,Astronaut,23.376577600524016,0.5805151600540817
+gaussian,Gaussian (sigma),2.5,Coins,25.41857747515458,0.5932309116713882
+gaussian,Gaussian (sigma),2.5,Chelsea Cat,30.20297091381519,0.2828637092508789
+gaussian,Gaussian (sigma),3.5,Camera Man,23.442841272515807,0.43875463706873175
+gaussian,Gaussian (sigma),3.5,Astronaut,21.797596080454728,0.3270623750977702
+gaussian,Gaussian (sigma),3.5,Coins,23.835273064743458,0.5360577029514816
+gaussian,Gaussian (sigma),3.5,Chelsea Cat,28.839724217240992,0.1539623668459963
+gaussian,Bilateral (sigmaColor),25.0,Camera Man,24.954812141582735,0.7989088502481482
+gaussian,Bilateral (sigmaColor),25.0,Astronaut,24.683087482058607,0.9113277930206748
+gaussian,Bilateral (sigmaColor),25.0,Coins,24.597370826980097,0.8644264135303069
+gaussian,Bilateral (sigmaColor),25.0,Chelsea Cat,24.84837336257489,0.6974470155011953
+gaussian,Bilateral (sigmaColor),50.0,Camera Man,27.909066457719412,0.7674430646857475
+gaussian,Bilateral (sigmaColor),50.0,Astronaut,27.246128959394987,0.8403434291859192
+gaussian,Bilateral (sigmaColor),50.0,Coins,28.00075536002042,0.7589100385433135
+gaussian,Bilateral (sigmaColor),50.0,Chelsea Cat,29.460242940724378,0.5781946863478273
+gaussian,Bilateral (sigmaColor),75.0,Camera Man,27.589173851672697,0.7283676848000419
+gaussian,Bilateral (sigmaColor),75.0,Astronaut,26.88750383395997,0.7878984792846183
+gaussian,Bilateral (sigmaColor),75.0,Coins,28.079913171121873,0.6912117009424822
+gaussian,Bilateral (sigmaColor),75.0,Chelsea Cat,30.513633359052925,0.4741862834727043
+gaussian,Bilateral (sigmaColor),100.0,Camera Man,26.865098683424677,0.7134421563183708
+gaussian,Bilateral (sigmaColor),100.0,Astronaut,26.11158056687867,0.7541165106549645
+gaussian,Bilateral (sigmaColor),100.0,Coins,27.523253752590993,0.6591555748876022
+gaussian,Bilateral (sigmaColor),100.0,Chelsea Cat,30.59153294214624,0.4401716881380989
+gaussian,Bilateral (sigmaColor),150.0,Camera Man,25.926997111390495,0.6918751648750981
+gaussian,Bilateral (sigmaColor),150.0,Astronaut,25.06894921681877,0.7098229649530389
+gaussian,Bilateral (sigmaColor),150.0,Coins,26.718135570031478,0.644224203580011
+gaussian,Bilateral (sigmaColor),150.0,Chelsea Cat,30.473541862562822,0.3932704509181842
+gaussian,NL-Means (h),10.0,Camera Man,20.74946942235431,0.6058439016673841
+gaussian,NL-Means (h),10.0,Astronaut,21.002317753342492,0.9150695841199126
+gaussian,NL-Means (h),10.0,Coins,20.3603298938053,0.8488451607276751
+gaussian,NL-Means (h),10.0,Chelsea Cat,20.221512442664363,0.5590585582534626
+gaussian,NL-Means (h),15.0,Camera Man,24.702476215724715,0.7592998601085011
+gaussian,NL-Means (h),15.0,Astronaut,23.907511847970184,0.9199981384262109
+gaussian,NL-Means (h),15.0,Coins,24.0661720116592,0.875508404312383
+gaussian,NL-Means (h),15.0,Chelsea Cat,24.15635312093905,0.7025562169562712
+gaussian,NL-Means (h),25.0,Camera Man,28.53552662091211,0.7258329582874284
+gaussian,NL-Means (h),25.0,Astronaut,28.20223437196588,0.8604575661230999
+gaussian,NL-Means (h),25.0,Coins,29.0484602629188,0.6938298226880003
+gaussian,NL-Means (h),25.0,Chelsea Cat,29.817751005981343,0.33471718544276235
+gaussian,NL-Means (h),40.0,Camera Man,26.731966045130328,0.6733316150615791
+gaussian,NL-Means (h),40.0,Astronaut,25.569989057533824,0.7147972345555441
+gaussian,NL-Means (h),40.0,Coins,27.106094320232685,0.5921134916039374
+gaussian,NL-Means (h),40.0,Chelsea Cat,28.373144303390696,0.21530337368485383
